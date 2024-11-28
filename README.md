@@ -1,4 +1,4 @@
-<img src="https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif" alt="MasterHead" />
+<img src="https://i.pinimg.com/originals/15/bc/1a/15bc1a87577971e7b031a7d7c7140af6.gif" />
 <h1 align="center">Hi 👋, I'm Ahmed bin abubakar basalama</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
