@@ -1,4 +1,4 @@
-<img src="https://i.pinimg.com/originals/15/bc/1a/15bc1a87577971e7b031a7d7c7140af6.gif" />
+<img src="https://i.pinimg.com/originals/15/bc/1a/15bc1a87577971e7b031a7d7c7140af6.gif"/>
 <h1 align="center">Hi 👋, I'm Ahmed bin abubakar basalama</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
